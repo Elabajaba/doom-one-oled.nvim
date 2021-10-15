@@ -81,7 +81,7 @@ local dark_violet = '#4e4f67'
 local cyan = '#46D9FF'
 local white = '#efefef'
 
-local bg = '#282c34'
+local bg = '#000000'
 local bg_alt = '#21242b'
 local bg_highlight = '#21252a'
 local bg_popup = '#3E4556'
